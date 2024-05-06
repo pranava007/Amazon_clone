@@ -1,0 +1,48 @@
+.colornav{
+    background-color:#231F20 !important;
+    color: white !important;
+    height: 65px;
+}
+
+.searchlen{
+
+    width: 500px !important;
+}
+.bor{
+    border-radius:2px !important;
+}
+
+.flag{
+    position: relative;
+    top: 6px;
+    left: 10px;
+}
+.wet{
+    padding: 3px !important;
+    border-radius:2px !important;
+    background-color: #231F20;
+    border: none;
+}
+
+.img{
+    position: relative;
+    bottom: 23px;
+}
+.delivery{
+    position: relative;
+    top: 11px;
+    /* left: 5px; */
+}
+
+.cart{
+    position: relative !important;
+    top: 0px !important;
+    right: 30px;
+}
+.subnav{
+    background-color: #232F3E;
+   
+}
+.nav-item a{
+    color: white !important;
+}
