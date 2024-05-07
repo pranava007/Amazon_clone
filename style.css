@@ -46,3 +46,29 @@
 .nav-item a{
     color: white !important;
 }
+.elm1{
+    position: relative;
+    bottom: 350px;
+}
+.elm{
+   
+  
+    padding-top: 150px;
+    padding-bottom: 250px;
+    height: 200px;
+    padding-left: 15px;
+    padding-right: 1px;
+    margin: 10px;
+
+    background-color: #f1f3f6;
+    color: black;
+}
+.elm h3{
+    position: relative;
+    bottom: 135px;
+}
+.elm  img{
+    position: relative;
+    bottom: 130px;
+    
+}
